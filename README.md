@@ -12,11 +12,13 @@ processing と sinatra で作った netstat を可視化するUIのおもちゃ�
 ------------------------
 
 ```
-   gem install sinatra
-   ruby app.rb
+   $ gem install sinatra
+   $ ruby app.rb
 ```
 
 クライアント
 -------------------------
 
-Open and run any pde file on "Processing" App.
+```
+   $ open java_netstats.pde
+```
