@@ -1,5 +1,5 @@
-java_netstat
-============
+java_netstats
+===============
 
 processing と sinatra で作った netstat を可視化するUIのおもちゃです。
 
